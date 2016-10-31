@@ -17,7 +17,7 @@
 #二、从github上clone项目 
 <big>
 1.  第一步肯定是要在github上fork你需要的项目啦，这样你才有权限提交修改   
-2.  phpstorm工具栏：VCS -> check from version control -> github
+2.  phpstorm工具栏：VCS -> check from version control -> github  
 3.  第一次操作会弹出github登录框 ，随后还会弹出输入master密码的对话框，请记下来  
 4.  弹出 clone Repository 对话框：  
 　　a) git Repository url: 就是github上对应项目下，点击“Clone or download”弹出的地址啦  
